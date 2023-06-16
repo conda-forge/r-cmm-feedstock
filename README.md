@@ -1,11 +1,11 @@
-About r-cmm
-===========
+About r-cmm-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cmm-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=cmm
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-cmm-feedstock/blob/main/LICENSE.txt)
 
 Summary: Quite extensive package for maximum likelihood estimation and weighted least squares estimation of categorical marginal models (CMMs; e.g., Bergsma and Rudas, 2002, <http://www.jstor.org/stable/2700006?; Bergsma, Croon and Hagenaars, 2009, <DOI:10.1007/b12532>.
 
